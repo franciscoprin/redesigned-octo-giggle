@@ -1,1 +1,4 @@
-# Main instructions for this template.
+# Django app: redesigned-octo-giggle
+# redesigned-octo-giggle is so cool.
+
+# Repo description: .
